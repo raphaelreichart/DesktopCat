@@ -1,0 +1,9 @@
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\bin\Debug\DesktopCat.exe.config
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\bin\Debug\DesktopCat.exe
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\bin\Debug\DesktopCat.pdb
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.csprojAssemblyReference.cache
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.Form1.resources
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.Properties.Resources.resources
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.csproj.GenerateResource.cache
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.exe
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.pdb
