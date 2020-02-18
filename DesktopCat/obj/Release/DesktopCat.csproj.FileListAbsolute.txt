@@ -8,3 +8,13 @@ D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.exe
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.pdb
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.csprojAssemblyReference.cache
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.Form2.resources
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\bin\Release\DesktopCat.exe.config
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\bin\Release\DesktopCat.exe
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\bin\Release\DesktopCat.pdb
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\obj\Release\DesktopCat.csprojAssemblyReference.cache
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\obj\Release\DesktopCat.Form1.resources
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\obj\Release\DesktopCat.Form2.resources
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\obj\Release\DesktopCat.Properties.Resources.resources
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\obj\Release\DesktopCat.csproj.GenerateResource.cache
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\obj\Release\DesktopCat.exe
+D:\Code-Projects\C#\Forms\DesktopCatGit\DesktopCat\obj\Release\DesktopCat.pdb

@@ -15,12 +15,15 @@ namespace DesktopCat
         public Form2()
         {
             InitializeComponent();
+            this.Visible = false;
+            this.TopMost = true;
         }
 
         private void Form2_FormClosing(object sender, FormClosingEventArgs e)
         {
             Form1.Cat.memeImages = null;
             Form1.Cat.pullWindowLeft = false;
+            Form1.Cat.pullWindowRight = false;
         }
     }
 }

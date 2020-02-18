@@ -29,7 +29,8 @@ namespace DesktopCat
         private bool followCursor = false;
         private bool pullNotepadLeft = false;
         private bool pullNotepadRight = false;
-        public bool pullWindowLeft = true;
+        public bool pullWindowRight = false;
+        public bool pullWindowLeft = false;
 
         private PictureBox pictureBox;
         private Form form;
@@ -47,6 +48,53 @@ namespace DesktopCat
 
         public void Move()
         {
+            if (pullWindowRight)
+            {
+
+                if (memeImages == null)
+                {
+                    if (form.Left >= Screen.PrimaryScreen.Bounds.Width + 200)
+                    {
+                        memeImages = new Form2();
+                        memeImages.Visible = false;
+                        memeImages.Width = 400;
+                        memeImages.Height = 400;
+                        if (form.Top <= 400)
+                        {
+                            form.Top = 600;
+                        }
+                        else if (form.Top >= Screen.PrimaryScreen.Bounds.Width - 400)
+                        {
+                            form.Top = 600;
+                        }
+                        memeImages.Left = Screen.PrimaryScreen.Bounds.Width + 600;
+                        memeImages.Top = form.Top + memeImages.Height / 2;
+                        pictureBox.Image = DesktopCat.Properties.Resources.cat_right_back;
+                        memeImages.Show();
+                    }
+                    else
+                    {
+                        form.Left += 5;
+                    }
+                }
+                else
+                {
+                    if (form.Left <= Screen.PrimaryScreen.Bounds.Width - 550)
+                    {
+                        pullWindowRight = false;
+                        memeImages = null;
+                        pictureBox.Image = DesktopCat.Properties.Resources.walking_cat_drawing_left;
+                    }
+                    else
+                    {
+                        memeImages.Visible = true;
+                        memeImages.Left = form.Left + form.Width;
+                        memeImages.Top = form.Top - memeImages.Height / 2;
+                        form.Left -= 5;
+                    }
+                }
+                return;
+            }
             if (pullWindowLeft)
             {
                 if(memeImages == null)
@@ -132,6 +180,12 @@ namespace DesktopCat
                 }else if(rand.NextDouble() < 0.05)
                 {
                     pullWindowLeft = true;
+                    pictureBox.Image = DesktopCat.Properties.Resources.walking_cat_drawing_left;
+                }
+                else if (rand.NextDouble() < 0.05)
+                {
+                    pullWindowRight = true;
+                    pictureBox.Image = DesktopCat.Properties.Resources.walking_cat_drawing_right;
                 }
                 speedY = rand.Next(0, 7) - 3;
             }
