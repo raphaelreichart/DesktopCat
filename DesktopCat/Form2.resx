@@ -117,20 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="walking_cat_drawing_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\walking-cat-drawing-right.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="walking_cat_drawing_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\walking-cat-drawing-left.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="meme-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\meme-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cat_left_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat-left-back.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cat_right_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat-right-back.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

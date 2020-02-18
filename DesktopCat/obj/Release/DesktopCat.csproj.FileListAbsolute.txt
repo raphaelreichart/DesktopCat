@@ -6,3 +6,5 @@ D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.Propertie
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.csproj.GenerateResource.cache
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.exe
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.pdb
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.csprojAssemblyReference.cache
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Release\DesktopCat.Form2.resources

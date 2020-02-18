@@ -7,3 +7,4 @@ D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.Properties.
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.csproj.GenerateResource.cache
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.exe
 D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.pdb
+D:\Code-Projects\C#\Forms\DesktopCat\DesktopCat\obj\Debug\DesktopCat.Form2.resources
