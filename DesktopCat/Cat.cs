@@ -84,6 +84,7 @@ namespace DesktopCat
                         pullWindowRight = false;
                         memeImages = null;
                         pictureBox.Image = DesktopCat.Properties.Resources.walking_cat_drawing_left;
+                        speedX = -5;
                     }
                     else
                     {
@@ -129,6 +130,7 @@ namespace DesktopCat
                         pullWindowLeft = false;
                         memeImages = null;
                         pictureBox.Image = DesktopCat.Properties.Resources.walking_cat_drawing_left;
+                        speedX = -5;
                     }
                     else
                     {
